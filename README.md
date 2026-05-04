@@ -1,27 +1,33 @@
-Cybersecurity Lab Portfolio
-Name: Amanda Ruiz
-Program: BAS Cybersecurity
-Focus: Network security, system enumeration, and hands-on lab practice
+# Hi, I'm Amanda Ruiz 👋
+<a href="https://www.linkedin.com/in/amanda-ruiz-shrm-cp-4b37091b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Lab Environment
-Virtualization: Oracle VM VirtualBox
-Attacker VM: Kali Linux
-Target VM: Ubuntu
+Cybersecurity student building hands-on labs and projects focused on networking, system security, and threat analysis.
 
-Completed Labs
-Lab 1: Network Reconnaissance with Nmap
-Tool: Nmap
-Objective: Identify open ports and running services on a target machine
-Key skills: port scanning, service detection, basic enumeration
-Summary: Discovered SSH running on port 22 and confirmed active network services
+## Objective
 
-Skills Practiced
-Network scanning and enumeration
-Linux command line
-Virtual lab setup
-Service identification
+My goal is to develop practical cybersecurity skills through hands-on labs and technical projects while preparing for a career in the security field.
 
-Ongoing Work
-Expanding lab to include vunerable machines
-Practicing service exploitation
-Learing packet analysis wiht Wireshark
+## Skills
+
+| Skill                                        | Associated Project              |
+|----------------------------------------------|---------------------------------|
+| Network Scanning                             | Nmap network scan lab identifying open ports and services |
+| Linux System Administration                  | Configuring and troubleshooting SSH service on a Linux virtual machine |
+| Virtualization                               | Building a cybersecurity lab environment using virtual machines |
+
+## Tools
+
+### Operating Systems
+<div>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?&style=for-the-badge&logo=kalilinux&logoColor=white" /></a>
+
+### Virtualization/Lab Environment
+<div>
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
+
+## Projects
+- Virtual Cybersecurity Lab Setup Using Oracle VM VirtualBox
+- Network Discovery and Port Scanning with Nmap
+- Configuring Remote Access with OpenSSH on Linux
+- Linux Command Line and System Management Basics
